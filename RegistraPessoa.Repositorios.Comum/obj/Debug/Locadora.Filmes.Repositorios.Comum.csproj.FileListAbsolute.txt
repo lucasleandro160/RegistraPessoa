@@ -1,0 +1,5 @@
+C:\Users\Brenda\Documents\Dev\Faculdade\C#\Locadora.Filmes\Locadora.Filmes.Repositorios.Comum\bin\Debug\Locadora.Filmes.Repositorios.Comum.dll
+C:\Users\Brenda\Documents\Dev\Faculdade\C#\Locadora.Filmes\Locadora.Filmes.Repositorios.Comum\bin\Debug\Locadora.Filmes.Repositorios.Comum.pdb
+C:\Users\Brenda\Documents\Dev\Faculdade\C#\Locadora.Filmes\Locadora.Filmes.Repositorios.Comum\obj\Debug\Locadora.Filmes.Repositorios.Comum.csproj.CoreCompileInputs.cache
+C:\Users\Brenda\Documents\Dev\Faculdade\C#\Locadora.Filmes\Locadora.Filmes.Repositorios.Comum\obj\Debug\Locadora.Filmes.Repositorios.Comum.dll
+C:\Users\Brenda\Documents\Dev\Faculdade\C#\Locadora.Filmes\Locadora.Filmes.Repositorios.Comum\obj\Debug\Locadora.Filmes.Repositorios.Comum.pdb

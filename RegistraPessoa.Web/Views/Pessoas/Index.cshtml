@@ -1,0 +1,39 @@
+﻿@model IEnumerable<RegistraPessoa.Web.ViewModels.Pessoa.PessoaIndexViewModel>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.NomeCategoria)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NomePessoa)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.NomeCategoria)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NomePessoa)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.IdPessoa }) |
+            @Html.ActionLink("Details", "Details", new { id=item.IdPessoa }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.IdPessoa })
+        </td>
+    </tr>
+}
+
+</table>

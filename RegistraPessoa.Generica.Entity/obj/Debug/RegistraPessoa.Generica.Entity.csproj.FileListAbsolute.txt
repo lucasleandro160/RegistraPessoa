@@ -1,0 +1,12 @@
+C:\Users\alkhy\source\repos\RegistraPessoa\Locadora.Filmes.Generica.Entity\bin\Debug\Locadora.Filmes.Generica.Entity.dll.config
+C:\Users\alkhy\source\repos\RegistraPessoa\Locadora.Filmes.Generica.Entity\bin\Debug\Locadora.Filmes.Generica.Entity.dll
+C:\Users\alkhy\source\repos\RegistraPessoa\Locadora.Filmes.Generica.Entity\bin\Debug\Locadora.Filmes.Generica.Entity.pdb
+C:\Users\alkhy\source\repos\RegistraPessoa\Locadora.Filmes.Generica.Entity\bin\Debug\EntityFramework.dll
+C:\Users\alkhy\source\repos\RegistraPessoa\Locadora.Filmes.Generica.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alkhy\source\repos\RegistraPessoa\Locadora.Filmes.Generica.Entity\bin\Debug\EntityFramework.xml
+C:\Users\alkhy\source\repos\RegistraPessoa\Locadora.Filmes.Generica.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alkhy\source\repos\RegistraPessoa\Locadora.Filmes.Generica.Entity\obj\Debug\RegistraPessoa.Generica.Entity.csprojAssemblyReference.cache
+C:\Users\alkhy\source\repos\RegistraPessoa\Locadora.Filmes.Generica.Entity\obj\Debug\RegistraPessoa.Generica.Entity.csproj.CoreCompileInputs.cache
+C:\Users\alkhy\source\repos\RegistraPessoa\Locadora.Filmes.Generica.Entity\obj\Debug\RegistraPessoa.Generica.Entity.csproj.CopyComplete
+C:\Users\alkhy\source\repos\RegistraPessoa\Locadora.Filmes.Generica.Entity\obj\Debug\Locadora.Filmes.Generica.Entity.dll
+C:\Users\alkhy\source\repos\RegistraPessoa\Locadora.Filmes.Generica.Entity\obj\Debug\Locadora.Filmes.Generica.Entity.pdb

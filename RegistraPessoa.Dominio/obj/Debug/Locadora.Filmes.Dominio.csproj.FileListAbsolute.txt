@@ -1,0 +1,11 @@
+C:\Users\Brenda\Documents\Dev\C#\Locadora.Filmes\Locadora.Filmes.Dominio\bin\Debug\Locadora.Filmes.Dominio.dll
+C:\Users\Brenda\Documents\Dev\C#\Locadora.Filmes\Locadora.Filmes.Dominio\bin\Debug\Locadora.Filmes.Dominio.pdb
+C:\Users\Brenda\Documents\Dev\C#\Locadora.Filmes\Locadora.Filmes.Dominio\obj\Debug\Locadora.Filmes.Dominio.csprojAssemblyReference.cache
+C:\Users\Brenda\Documents\Dev\C#\Locadora.Filmes\Locadora.Filmes.Dominio\obj\Debug\Locadora.Filmes.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Brenda\Documents\Dev\C#\Locadora.Filmes\Locadora.Filmes.Dominio\obj\Debug\Locadora.Filmes.Dominio.dll
+C:\Users\Brenda\Documents\Dev\C#\Locadora.Filmes\Locadora.Filmes.Dominio\obj\Debug\Locadora.Filmes.Dominio.pdb
+C:\Users\Brenda\Documents\Dev\Faculdade\C#\Locadora.Filmes\Locadora.Filmes.Dominio\bin\Debug\Locadora.Filmes.Dominio.dll
+C:\Users\Brenda\Documents\Dev\Faculdade\C#\Locadora.Filmes\Locadora.Filmes.Dominio\bin\Debug\Locadora.Filmes.Dominio.pdb
+C:\Users\Brenda\Documents\Dev\Faculdade\C#\Locadora.Filmes\Locadora.Filmes.Dominio\obj\Debug\Locadora.Filmes.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Brenda\Documents\Dev\Faculdade\C#\Locadora.Filmes\Locadora.Filmes.Dominio\obj\Debug\Locadora.Filmes.Dominio.dll
+C:\Users\Brenda\Documents\Dev\Faculdade\C#\Locadora.Filmes\Locadora.Filmes.Dominio\obj\Debug\Locadora.Filmes.Dominio.pdb

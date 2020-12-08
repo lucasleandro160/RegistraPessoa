@@ -1,0 +1,107 @@
+﻿@model IEnumerable<RegistraPessoa.Web.ViewModels.Categoria.CategoriaIndexViewModel>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+<div class="row">
+    <div class="col-md-10">
+        <input type="text" id="pesquisaCategoria" class="form-control" />
+    </div>
+
+    <div class="col-md-2">
+        <button id="btnPesquisarCategoria">Pesquisar</button>
+    </div>
+</div>
+<table class="table" id="tblCategorias">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Sexo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Descricao)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Autor)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nome)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Sexo)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Descricao)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Autor)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Email)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.Id }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.Id }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            $("#btnPesquisarCategoria").click(function () {
+                var termoPesquisa = $("#pesquisaCategoria").val();
+                $.ajax({
+                    method: "GET",
+                    url: "/Categorias/FiltrarPorNome/" + termoPesquisa,
+                    success: function (data) {
+                        $("#tblCategorias tbody > tr").remove();
+                        $.each(data, function (i, album) {
+                            $("#tblCategorias tbody").append(
+                                "<tr>" +
+                                    "<td>" + album.Nome + "</td>" +
+                                    "<td>" + album.Sexo + "</td>" +
+                                    "<td>" + album.Descricao + "</td>" +
+                                    "<td>" + album.Autor + "</td>" +
+                                    "<td>" + album.Email + "</td>" +
+                                    "<td>" +
+                                        "<a href='/Categorias/Edit/" + album.Id + "'>Editar</a>" +
+                                        "<a href='/Categorias/Details/" + album.Id + "'>Detalhar</a>" +
+                                        "<a href='/Categorias/Delete/" + album.Id + "'>Excluir</a>" +
+                                    "</td>" +
+                                "</tr>"
+                            );
+                        });
+                    },
+                    error: function (data) {
+                        alert("Hover um erro na pesquisa");
+                    }
+                });
+            });
+        });
+    </script>    
+}

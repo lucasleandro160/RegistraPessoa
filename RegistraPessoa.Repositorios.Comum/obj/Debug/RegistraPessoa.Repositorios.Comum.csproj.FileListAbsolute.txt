@@ -1,0 +1,6 @@
+C:\Users\alkhy\source\repos\RegistraPessoa\Locadora.Filmes.Repositorios.Comum\bin\Debug\Locadora.Filmes.Repositorios.Comum.dll
+C:\Users\alkhy\source\repos\RegistraPessoa\Locadora.Filmes.Repositorios.Comum\bin\Debug\Locadora.Filmes.Repositorios.Comum.pdb
+C:\Users\alkhy\source\repos\RegistraPessoa\Locadora.Filmes.Repositorios.Comum\obj\Debug\RegistraPessoa.Repositorios.Comum.csprojAssemblyReference.cache
+C:\Users\alkhy\source\repos\RegistraPessoa\Locadora.Filmes.Repositorios.Comum\obj\Debug\RegistraPessoa.Repositorios.Comum.csproj.CoreCompileInputs.cache
+C:\Users\alkhy\source\repos\RegistraPessoa\Locadora.Filmes.Repositorios.Comum\obj\Debug\Locadora.Filmes.Repositorios.Comum.dll
+C:\Users\alkhy\source\repos\RegistraPessoa\Locadora.Filmes.Repositorios.Comum\obj\Debug\Locadora.Filmes.Repositorios.Comum.pdb

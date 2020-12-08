@@ -1,0 +1,8 @@
+C:\Users\alkhy\source\repos\RegistraPessoa\Locadora.Filmes.Web\obj\Debug\RegistraPessoa.Web.csprojAssemblyReference.cache
+C:\Users\alkhy\source\repos\RegistraPessoa\Locadora.Filmes.Web\obj\Debug\RegistraPessoa.Web.csproj.CoreCompileInputs.cache
+C:\Users\alkhy\source\repos\RegistraPessoa\Locadora.Filmes.Web\obj\Debug\Locadora.Filmes.Web.dll
+C:\Users\alkhy\source\repos\RegistraPessoa\Locadora.Filmes.Web\obj\Debug\Locadora.Filmes.Web.pdb
+C:\Users\alkhy\source\repos\RegistraPessoa\RegistraPessoa.Web\obj\Debug\RegistraPessoa.Web.csprojAssemblyReference.cache
+C:\Users\alkhy\source\repos\RegistraPessoa\RegistraPessoa.Web\obj\Debug\RegistraPessoa.Web.csproj.CoreCompileInputs.cache
+C:\Users\alkhy\source\repos\RegistraPessoa\RegistraPessoa.Web\obj\Debug\Locadora.Filmes.Web.dll
+C:\Users\alkhy\source\repos\RegistraPessoa\RegistraPessoa.Web\obj\Debug\Locadora.Filmes.Web.pdb

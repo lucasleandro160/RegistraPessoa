@@ -1,0 +1,14 @@
+C:\Users\Brenda\Documents\Dev\Faculdade\C#\Locadora.Filmes\Locadora.Repositorios.Comum.Entity\bin\Debug\Locadora.Repositorios.Comum.Entity.dll.config
+C:\Users\Brenda\Documents\Dev\Faculdade\C#\Locadora.Filmes\Locadora.Repositorios.Comum.Entity\bin\Debug\Locadora.Repositorios.Comum.Entity.dll
+C:\Users\Brenda\Documents\Dev\Faculdade\C#\Locadora.Filmes\Locadora.Repositorios.Comum.Entity\bin\Debug\Locadora.Repositorios.Comum.Entity.pdb
+C:\Users\Brenda\Documents\Dev\Faculdade\C#\Locadora.Filmes\Locadora.Repositorios.Comum.Entity\bin\Debug\EntityFramework.dll
+C:\Users\Brenda\Documents\Dev\Faculdade\C#\Locadora.Filmes\Locadora.Repositorios.Comum.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Brenda\Documents\Dev\Faculdade\C#\Locadora.Filmes\Locadora.Repositorios.Comum.Entity\bin\Debug\Locadora.Filmes.Repositorios.Comum.dll
+C:\Users\Brenda\Documents\Dev\Faculdade\C#\Locadora.Filmes\Locadora.Repositorios.Comum.Entity\bin\Debug\Locadora.Filmes.Repositorios.Comum.pdb
+C:\Users\Brenda\Documents\Dev\Faculdade\C#\Locadora.Filmes\Locadora.Repositorios.Comum.Entity\bin\Debug\EntityFramework.xml
+C:\Users\Brenda\Documents\Dev\Faculdade\C#\Locadora.Filmes\Locadora.Repositorios.Comum.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Brenda\Documents\Dev\Faculdade\C#\Locadora.Filmes\Locadora.Repositorios.Comum.Entity\obj\Debug\Locadora.Repositorios.Comum.Entity.csprojAssemblyReference.cache
+C:\Users\Brenda\Documents\Dev\Faculdade\C#\Locadora.Filmes\Locadora.Repositorios.Comum.Entity\obj\Debug\Locadora.Repositorios.Comum.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Brenda\Documents\Dev\Faculdade\C#\Locadora.Filmes\Locadora.Repositorios.Comum.Entity\obj\Debug\Locadora.Repositorios.Comum.Entity.csproj.CopyComplete
+C:\Users\Brenda\Documents\Dev\Faculdade\C#\Locadora.Filmes\Locadora.Repositorios.Comum.Entity\obj\Debug\Locadora.Repositorios.Comum.Entity.dll
+C:\Users\Brenda\Documents\Dev\Faculdade\C#\Locadora.Filmes\Locadora.Repositorios.Comum.Entity\obj\Debug\Locadora.Repositorios.Comum.Entity.pdb
