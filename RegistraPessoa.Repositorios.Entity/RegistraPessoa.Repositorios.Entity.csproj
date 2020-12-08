@@ -60,7 +60,7 @@
       <Project>{4a950f38-a622-447d-80b5-6b3c167fc408}</Project>
       <Name>RegistraPessoa.Repositorios.Comum</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Locadora.Repositorios.Comum.Entity\RegistraPessoa.Comum.Entity.csproj">
+    <ProjectReference Include="..\RegistraPessoa.Comum.Entity\RegistraPessoa.Comum.Entity.csproj">
       <Project>{655609ed-5b84-4bb8-b4db-ec9a6a9d6931}</Project>
       <Name>RegistraPessoa.Comum.Entity</Name>
     </ProjectReference>

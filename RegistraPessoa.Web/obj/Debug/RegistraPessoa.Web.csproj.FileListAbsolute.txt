@@ -6,3 +6,5 @@ C:\Users\alkhy\source\repos\RegistraPessoa\RegistraPessoa.Web\obj\Debug\Registra
 C:\Users\alkhy\source\repos\RegistraPessoa\RegistraPessoa.Web\obj\Debug\RegistraPessoa.Web.csproj.CoreCompileInputs.cache
 C:\Users\alkhy\source\repos\RegistraPessoa\RegistraPessoa.Web\obj\Debug\Locadora.Filmes.Web.dll
 C:\Users\alkhy\source\repos\RegistraPessoa\RegistraPessoa.Web\obj\Debug\Locadora.Filmes.Web.pdb
+C:\Trabalho\RegistraPessoa\RegistraPessoa.Web\obj\Debug\RegistraPessoa.Web.csprojAssemblyReference.cache
+C:\Trabalho\RegistraPessoa\RegistraPessoa.Web\obj\Debug\RegistraPessoa.Web.csproj.CoreCompileInputs.cache
