@@ -10,9 +10,6 @@ C:\Users\alkhy\source\repos\RegistraPessoa\Locadora.Filmes.Generica.Entity\obj\D
 C:\Users\alkhy\source\repos\RegistraPessoa\Locadora.Filmes.Generica.Entity\obj\Debug\RegistraPessoa.Generica.Entity.csproj.CopyComplete
 C:\Users\alkhy\source\repos\RegistraPessoa\Locadora.Filmes.Generica.Entity\obj\Debug\Locadora.Filmes.Generica.Entity.dll
 C:\Users\alkhy\source\repos\RegistraPessoa\Locadora.Filmes.Generica.Entity\obj\Debug\Locadora.Filmes.Generica.Entity.pdb
-C:\Trabalho\RegistraPessoa\RegistraPessoa.Generica.Entity\bin\Debug\Locadora.Filmes.Generica.Entity.dll.config
-C:\Trabalho\RegistraPessoa\RegistraPessoa.Generica.Entity\bin\Debug\Locadora.Filmes.Generica.Entity.dll
-C:\Trabalho\RegistraPessoa\RegistraPessoa.Generica.Entity\bin\Debug\Locadora.Filmes.Generica.Entity.pdb
 C:\Trabalho\RegistraPessoa\RegistraPessoa.Generica.Entity\bin\Debug\EntityFramework.dll
 C:\Trabalho\RegistraPessoa\RegistraPessoa.Generica.Entity\bin\Debug\EntityFramework.SqlServer.dll
 C:\Trabalho\RegistraPessoa\RegistraPessoa.Generica.Entity\bin\Debug\EntityFramework.xml
@@ -20,5 +17,8 @@ C:\Trabalho\RegistraPessoa\RegistraPessoa.Generica.Entity\bin\Debug\EntityFramew
 C:\Trabalho\RegistraPessoa\RegistraPessoa.Generica.Entity\obj\Debug\RegistraPessoa.Generica.Entity.csprojAssemblyReference.cache
 C:\Trabalho\RegistraPessoa\RegistraPessoa.Generica.Entity\obj\Debug\RegistraPessoa.Generica.Entity.csproj.CoreCompileInputs.cache
 C:\Trabalho\RegistraPessoa\RegistraPessoa.Generica.Entity\obj\Debug\RegistraPessoa.Generica.Entity.csproj.CopyComplete
-C:\Trabalho\RegistraPessoa\RegistraPessoa.Generica.Entity\obj\Debug\Locadora.Filmes.Generica.Entity.dll
-C:\Trabalho\RegistraPessoa\RegistraPessoa.Generica.Entity\obj\Debug\Locadora.Filmes.Generica.Entity.pdb
+C:\Trabalho\RegistraPessoa\RegistraPessoa.Generica.Entity\bin\Debug\RegistraPessoa.Generica.Entity.dll.config
+C:\Trabalho\RegistraPessoa\RegistraPessoa.Generica.Entity\bin\Debug\RegistraPessoa.Generica.Entity.dll
+C:\Trabalho\RegistraPessoa\RegistraPessoa.Generica.Entity\bin\Debug\RegistraPessoa.Generica.Entity.pdb
+C:\Trabalho\RegistraPessoa\RegistraPessoa.Generica.Entity\obj\Debug\RegistraPessoa.Generica.Entity.dll
+C:\Trabalho\RegistraPessoa\RegistraPessoa.Generica.Entity\obj\Debug\RegistraPessoa.Generica.Entity.pdb

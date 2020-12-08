@@ -4,9 +4,9 @@ C:\Users\alkhy\source\repos\RegistraPessoa\Locadora.Filmes.Repositorios.Comum\ob
 C:\Users\alkhy\source\repos\RegistraPessoa\Locadora.Filmes.Repositorios.Comum\obj\Debug\RegistraPessoa.Repositorios.Comum.csproj.CoreCompileInputs.cache
 C:\Users\alkhy\source\repos\RegistraPessoa\Locadora.Filmes.Repositorios.Comum\obj\Debug\Locadora.Filmes.Repositorios.Comum.dll
 C:\Users\alkhy\source\repos\RegistraPessoa\Locadora.Filmes.Repositorios.Comum\obj\Debug\Locadora.Filmes.Repositorios.Comum.pdb
-C:\Trabalho\RegistraPessoa\RegistraPessoa.Repositorios.Comum\bin\Debug\Locadora.Filmes.Repositorios.Comum.dll
-C:\Trabalho\RegistraPessoa\RegistraPessoa.Repositorios.Comum\bin\Debug\Locadora.Filmes.Repositorios.Comum.pdb
 C:\Trabalho\RegistraPessoa\RegistraPessoa.Repositorios.Comum\obj\Debug\RegistraPessoa.Repositorios.Comum.csprojAssemblyReference.cache
 C:\Trabalho\RegistraPessoa\RegistraPessoa.Repositorios.Comum\obj\Debug\RegistraPessoa.Repositorios.Comum.csproj.CoreCompileInputs.cache
-C:\Trabalho\RegistraPessoa\RegistraPessoa.Repositorios.Comum\obj\Debug\Locadora.Filmes.Repositorios.Comum.dll
-C:\Trabalho\RegistraPessoa\RegistraPessoa.Repositorios.Comum\obj\Debug\Locadora.Filmes.Repositorios.Comum.pdb
+C:\Trabalho\RegistraPessoa\RegistraPessoa.Repositorios.Comum\bin\Debug\RegistraPessoa.Repositorios.Comum.dll
+C:\Trabalho\RegistraPessoa\RegistraPessoa.Repositorios.Comum\bin\Debug\RegistraPessoa.Repositorios.Comum.pdb
+C:\Trabalho\RegistraPessoa\RegistraPessoa.Repositorios.Comum\obj\Debug\RegistraPessoa.Repositorios.Comum.dll
+C:\Trabalho\RegistraPessoa\RegistraPessoa.Repositorios.Comum\obj\Debug\RegistraPessoa.Repositorios.Comum.pdb

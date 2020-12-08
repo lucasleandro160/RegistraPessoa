@@ -44,7 +44,6 @@ C:\Trabalho\RegistraPessoa\RegistraPessoa.Web\bin\EntityFramework.SqlServer.dll
 C:\Trabalho\RegistraPessoa\RegistraPessoa.Web\bin\Locadora.Filmes.Dados.Entity.dll
 C:\Trabalho\RegistraPessoa\RegistraPessoa.Web\bin\Locadora.Filmes.Dominio.dll
 C:\Trabalho\RegistraPessoa\RegistraPessoa.Web\bin\Locadora.Filmes.Generica.Entity.dll
-C:\Trabalho\RegistraPessoa\RegistraPessoa.Web\bin\Locadora.Filmes.Repositorios.Comum.dll
 C:\Trabalho\RegistraPessoa\RegistraPessoa.Web\bin\Locadora.Filmes.Repositorios.Entity.dll
 C:\Trabalho\RegistraPessoa\RegistraPessoa.Web\bin\Locadora.Repositorios.Comum.Entity.dll
 C:\Trabalho\RegistraPessoa\RegistraPessoa.Web\bin\Microsoft.AspNet.Identity.Core.dll

@@ -64,6 +64,10 @@
       <Project>{db193371-92be-4973-b81e-d7d477d001ac}</Project>
       <Name>RegistraPessoa.Dominio</Name>
     </ProjectReference>
+    <ProjectReference Include="..\RegistraPessoa.Generica.Entity\RegistraPessoa.Generica.Entity.csproj">
+      <Project>{dd1bd583-7c70-48dd-a358-bf7e1eff0d79}</Project>
+      <Name>RegistraPessoa.Generica.Entity</Name>
+    </ProjectReference>
     <ProjectReference Include="..\RegistraPessoa.Repositorios.Comum\RegistraPessoa.Repositorios.Comum.csproj">
       <Project>{4a950f38-a622-447d-80b5-6b3c167fc408}</Project>
       <Name>RegistraPessoa.Repositorios.Comum</Name>
