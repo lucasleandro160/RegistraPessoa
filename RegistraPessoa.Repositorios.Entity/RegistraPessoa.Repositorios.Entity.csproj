@@ -8,8 +8,8 @@
     <ProjectGuid>{5DE34E4D-CA51-4B2D-AD1A-31CA8313F093}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Locadora.Filmes.Repositorios.Entity</RootNamespace>
-    <AssemblyName>Locadora.Filmes.Repositorios.Entity</AssemblyName>
+    <RootNamespace>RegistraPessoa.Repositorios.Entity</RootNamespace>
+    <AssemblyName>RegistraPessoa.Repositorios.Entity</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -56,6 +56,14 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\RegistraPessoa.Dados.Entity\RegistraPessoa.Dados.Entity.csproj">
+      <Project>{b9b8fbe7-7849-4106-a1d8-5593dcf568ae}</Project>
+      <Name>RegistraPessoa.Dados.Entity</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\RegistraPessoa.Dominio\RegistraPessoa.Dominio.csproj">
+      <Project>{db193371-92be-4973-b81e-d7d477d001ac}</Project>
+      <Name>RegistraPessoa.Dominio</Name>
+    </ProjectReference>
     <ProjectReference Include="..\RegistraPessoa.Repositorios.Comum\RegistraPessoa.Repositorios.Comum.csproj">
       <Project>{4a950f38-a622-447d-80b5-6b3c167fc408}</Project>
       <Name>RegistraPessoa.Repositorios.Comum</Name>

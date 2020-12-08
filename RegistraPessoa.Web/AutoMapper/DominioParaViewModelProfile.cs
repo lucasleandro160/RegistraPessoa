@@ -17,7 +17,7 @@ namespace RegistraPessoa.Web.AutoMapper
                 .ForMember(p => p.Nome, opt =>
                 {
                     opt.MapFrom(src =>
-                        string.Format("{0} {1}", src.Nome, src.Ano.ToString())
+                        string.Format("{M} {F}", src.OcupacaoProfissional, src.Sexo.ToString())
                     );
                 });
             Mapper.CreateMap<Categoria, CategoriaViewModel>();
@@ -26,7 +26,7 @@ namespace RegistraPessoa.Web.AutoMapper
                 .ForMember(p => p.NomeCategoria, opt =>
                 {
                     opt.MapFrom(src =>
-                        src.Categoria.Nome
+                        src.Categoria.OcupacaoProfissional
                     );
                 });
             Mapper.CreateMap<Pessoa, PessoaViewModel>();

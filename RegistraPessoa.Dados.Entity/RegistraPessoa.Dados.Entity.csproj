@@ -8,8 +8,8 @@
     <ProjectGuid>{B9B8FBE7-7849-4106-A1D8-5593DCF568AE}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Locadora.Filmes.Dados.Entity</RootNamespace>
-    <AssemblyName>Locadora.Filmes.Dados.Entity</AssemblyName>
+    <RootNamespace>RegistraPessoa.Dados.Entity</RootNamespace>
+    <AssemblyName>RegistraPessoa.Dados.Entity</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>

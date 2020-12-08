@@ -4,3 +4,9 @@ C:\Users\alkhy\source\repos\RegistraPessoa\Locadora.Filmes.Dominio\obj\Debug\Reg
 C:\Users\alkhy\source\repos\RegistraPessoa\Locadora.Filmes.Dominio\obj\Debug\RegistraPessoa.Dominio.csproj.CoreCompileInputs.cache
 C:\Users\alkhy\source\repos\RegistraPessoa\Locadora.Filmes.Dominio\obj\Debug\Locadora.Filmes.Dominio.dll
 C:\Users\alkhy\source\repos\RegistraPessoa\Locadora.Filmes.Dominio\obj\Debug\Locadora.Filmes.Dominio.pdb
+C:\Trabalho\RegistraPessoa\RegistraPessoa.Dominio\bin\Debug\Locadora.Filmes.Dominio.dll
+C:\Trabalho\RegistraPessoa\RegistraPessoa.Dominio\bin\Debug\Locadora.Filmes.Dominio.pdb
+C:\Trabalho\RegistraPessoa\RegistraPessoa.Dominio\obj\Debug\RegistraPessoa.Dominio.csprojAssemblyReference.cache
+C:\Trabalho\RegistraPessoa\RegistraPessoa.Dominio\obj\Debug\RegistraPessoa.Dominio.csproj.CoreCompileInputs.cache
+C:\Trabalho\RegistraPessoa\RegistraPessoa.Dominio\obj\Debug\Locadora.Filmes.Dominio.dll
+C:\Trabalho\RegistraPessoa\RegistraPessoa.Dominio\obj\Debug\Locadora.Filmes.Dominio.pdb

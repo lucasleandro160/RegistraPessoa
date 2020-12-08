@@ -12,3 +12,17 @@ C:\Users\alkhy\source\repos\RegistraPessoa\Locadora.Repositorios.Comum.Entity\ob
 C:\Users\alkhy\source\repos\RegistraPessoa\Locadora.Repositorios.Comum.Entity\obj\Debug\RegistraPessoa.Comum.Entity.csproj.CopyComplete
 C:\Users\alkhy\source\repos\RegistraPessoa\Locadora.Repositorios.Comum.Entity\obj\Debug\Locadora.Repositorios.Comum.Entity.dll
 C:\Users\alkhy\source\repos\RegistraPessoa\Locadora.Repositorios.Comum.Entity\obj\Debug\Locadora.Repositorios.Comum.Entity.pdb
+C:\Trabalho\RegistraPessoa\RegistraPessoa.Comum.Entity\bin\Debug\Locadora.Repositorios.Comum.Entity.dll.config
+C:\Trabalho\RegistraPessoa\RegistraPessoa.Comum.Entity\bin\Debug\Locadora.Repositorios.Comum.Entity.dll
+C:\Trabalho\RegistraPessoa\RegistraPessoa.Comum.Entity\bin\Debug\Locadora.Repositorios.Comum.Entity.pdb
+C:\Trabalho\RegistraPessoa\RegistraPessoa.Comum.Entity\bin\Debug\EntityFramework.dll
+C:\Trabalho\RegistraPessoa\RegistraPessoa.Comum.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Trabalho\RegistraPessoa\RegistraPessoa.Comum.Entity\bin\Debug\Locadora.Filmes.Repositorios.Comum.dll
+C:\Trabalho\RegistraPessoa\RegistraPessoa.Comum.Entity\bin\Debug\Locadora.Filmes.Repositorios.Comum.pdb
+C:\Trabalho\RegistraPessoa\RegistraPessoa.Comum.Entity\bin\Debug\EntityFramework.xml
+C:\Trabalho\RegistraPessoa\RegistraPessoa.Comum.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Trabalho\RegistraPessoa\RegistraPessoa.Comum.Entity\obj\Debug\RegistraPessoa.Comum.Entity.csprojAssemblyReference.cache
+C:\Trabalho\RegistraPessoa\RegistraPessoa.Comum.Entity\obj\Debug\RegistraPessoa.Comum.Entity.csproj.CoreCompileInputs.cache
+C:\Trabalho\RegistraPessoa\RegistraPessoa.Comum.Entity\obj\Debug\RegistraPessoa.Comum.Entity.csproj.CopyComplete
+C:\Trabalho\RegistraPessoa\RegistraPessoa.Comum.Entity\obj\Debug\Locadora.Repositorios.Comum.Entity.dll
+C:\Trabalho\RegistraPessoa\RegistraPessoa.Comum.Entity\obj\Debug\Locadora.Repositorios.Comum.Entity.pdb

@@ -8,8 +8,8 @@
     <ProjectGuid>{655609ED-5B84-4BB8-B4DB-EC9A6A9D6931}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Locadora.Repositorios.Comum.Entity</RootNamespace>
-    <AssemblyName>Locadora.Repositorios.Comum.Entity</AssemblyName>
+    <RootNamespace>RegistraPessoa.Repositorios.Comum.Entity</RootNamespace>
+    <AssemblyName>RegistraPessoa.Repositorios.Comum.Entity</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>

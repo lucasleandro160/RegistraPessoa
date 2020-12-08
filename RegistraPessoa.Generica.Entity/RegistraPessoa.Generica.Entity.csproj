@@ -8,8 +8,8 @@
     <ProjectGuid>{DD1BD583-7C70-48DD-A358-BF7E1EFF0D79}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Locadora.Filmes.Generica.Entity</RootNamespace>
-    <AssemblyName>Locadora.Filmes.Generica.Entity</AssemblyName>
+    <RootNamespace>RegistraPessoa.Generica.Entity</RootNamespace>
+    <AssemblyName>RegistraPessoa.Generica.Entity</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>

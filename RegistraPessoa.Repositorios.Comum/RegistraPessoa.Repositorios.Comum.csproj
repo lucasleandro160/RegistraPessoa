@@ -7,8 +7,8 @@
     <ProjectGuid>{4A950F38-A622-447D-80B5-6B3C167FC408}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Locadora.Filmes.Repositorios.Comum</RootNamespace>
-    <AssemblyName>Locadora.Filmes.Repositorios.Comum</AssemblyName>
+    <RootNamespace>RegistraPessoa.Repositorios.Comum</RootNamespace>
+    <AssemblyName>RegistraPessoa.Repositorios.Comum</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
